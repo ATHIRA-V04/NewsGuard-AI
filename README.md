@@ -123,8 +123,3 @@ npm run dev
 
 ---
 
-## Live Demo
-
-Coming soon.
-
----
