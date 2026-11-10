@@ -122,4 +122,7 @@ npm run dev
 ```
 
 ---
+## Live Demo
+
+[NewsGuard AI – Live Website](https://news-guard-ai-ten.vercel.app/)
 
